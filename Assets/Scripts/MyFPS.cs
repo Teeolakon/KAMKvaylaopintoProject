@@ -5,6 +5,8 @@ using UnityEngine;
 public class MyFPS : MonoBehaviour
 {
 
+    public bool testVariable;
+
     public float walkSpeed = 5f;
     public float runSpeed = 10f;
     public float jumpForce = 3f;
